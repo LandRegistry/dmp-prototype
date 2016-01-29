@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/LandRegistry/dmp-prototype.svg?branch=master)](https://travis-ci.org/LandRegistry/dmp-prototype)
+
 # GOV.UK Prototype kit
 
 
